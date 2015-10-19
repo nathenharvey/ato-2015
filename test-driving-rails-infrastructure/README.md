@@ -14,7 +14,7 @@ Our goal is to build the infrastructure required to run a [basic Rails applicati
 
 The master branch is where we start.  There are many other branches here that build on one another working toward a working example.
 
-* [master](https://github.com/nathenharvey/ato-2015)
+* [master](https://github.com/nathenharvey/ato-2015/tree/master/test-driving-rails-infrastructure)
 
 ## Infrastructure Requirements
 
